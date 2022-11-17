@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Luka</h1>
 
-<!--
-**apisurfer/apisurfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre align="center">
+ _________        .---"""      """---.              
+:______.-':      :  .--------------.  :             
+| ______  |      | :                : |             
+|:______B:|      | |                | |             
+|:______B:|      | |  shipIt();     | |             
+|:______B:|      | |                | |             
+|         |      | |                | |             
+|:_____:  |      | |                | |             
+|    ==   |      | :                : |             
+|       O |      :  '--------------'  :             
+|       o |      :'---...______...---'              
+|       o |-._.-i___/'             \._              
+|'-.____o_|   '-.   '-...______...-'  `-._          
+:_________:      `.____________________   `-.___.-. 
+                 .'.eeeeeeeeeeeeeeeeee.'.      :___:
+    fsc        .'.eeeeeeeeeeeeeeeeeeeeee.'.         
+              :____________________________:
+</pre>
 
-Here are some ideas to get you started:
+<p align="center">
+I work on web applications and things built with open and accessible technologies. What I'm passionate about is working on optimisations that make web projects long-term sustainable. My experience covers working with Javascript and related web technologies for about a decade, on both frontend and backend projects.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  ![Twitter URL](https://img.shields.io/twitter/url?label=%40apisurfer&url=https%3A%2F%2Ftwitter.com%2Fapisurfer)
+</div>
+
+<br>
+
+
