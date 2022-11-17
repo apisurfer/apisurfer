@@ -25,5 +25,7 @@ I work on web applications and things built with open and accessible technologie
 </p>
 
 <div align="center">
-    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=%40apisurfer&style=social&url=https%3A%2F%2Ftwitter.com%2Fapisurfer">
+    <a href="https://twitter.com/apisurfer" title="My Twitter account">
+        <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=%40apisurfer&style=social&url=https%3A%2F%2Ftwitter.com%2Fapisurfer">
+    </a>
 </div>
