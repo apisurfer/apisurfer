@@ -5,7 +5,7 @@
 :______.-':      :  .--------------.  :             
 | ______  |      | :                : |             
 |:______B:|      | |                | |             
-|:______B:|      | |  shipIt();     | |             
+|:______B:|      | |  run();        | |             
 |:______B:|      | |                | |             
 |         |      | |                | |             
 |:_____:  |      | |                | |             
@@ -21,7 +21,7 @@
 </pre>
 
 <p align="center">
-I work on web applications and things built with open and accessible technologies. What I'm passionate about is working on optimisations that make web projects long-term sustainable. My experience covers working with Javascript and related web technologies for about a decade, on both frontend and backend projects.
+I work on things built with web technologies. My passion is identifying and fixing technical bottlenecks which stand in the way of long-term sustainability and viability of web projects. My experience covers working with Javascript/Typescript and related web technologies for about a decade on frontend, backend, desktop, and automation projects.
 </p>
 
 <div align="center">
